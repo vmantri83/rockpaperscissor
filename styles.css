@@ -15,12 +15,14 @@ body {
   justify-content: center;
 }
 
-.title-small-wrapper {
+/*.title-small-wrapper {
   background-color: aqua;
-}
+}*/
 
 h3 {
-  size: 1em;
+  font-size: 1.5rem;
+  margin-left: 20px;
+  margin-top: 25px;
   font-family: "Josefin Sans", sans-serif;
   font-weight: lighter;
   color: white;
